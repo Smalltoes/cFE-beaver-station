@@ -1,0 +1,4 @@
+#cfe-hello-tlm.txt
+#hello
+Hello Message, 12, 11, S, Str, NULL, NULL, NULL, NULL
+Bye,  23, 3, S, Str, NULL, NULL, NULL, NULL
